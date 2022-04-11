@@ -26,7 +26,7 @@ namespace usernametask
             userdata userpaschech = new userdata();
             userpaschech.User = username;
             userpaschech.Password = password;
-            Console.WriteLine(userpaschech.User) ;
+           
             
         }
     }
