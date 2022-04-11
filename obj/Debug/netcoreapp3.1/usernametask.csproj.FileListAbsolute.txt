@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.AssemblyInfo.cs
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\usernametask\bin\Debug\netcoreapp3.1\usernametask.exe
+C:\Users\Murad\Desktop\usernametask\bin\Debug\netcoreapp3.1\usernametask.deps.json
+C:\Users\Murad\Desktop\usernametask\bin\Debug\netcoreapp3.1\usernametask.runtimeconfig.json
+C:\Users\Murad\Desktop\usernametask\bin\Debug\netcoreapp3.1\usernametask.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\usernametask\bin\Debug\netcoreapp3.1\usernametask.dll
+C:\Users\Murad\Desktop\usernametask\bin\Debug\netcoreapp3.1\usernametask.pdb
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.dll
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.pdb
+C:\Users\Murad\Desktop\usernametask\obj\Debug\netcoreapp3.1\usernametask.genruntimeconfig.cache
